@@ -1,0 +1,7 @@
+[project]
+dependencies = [
+  "langchain>=0.0.200",
+  "langchain-robocorp<=0.0.10.post1",
+  "rpaframework>=13.0.0"
+]
+

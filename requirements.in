@@ -1,0 +1,5 @@
+langchain>=0.0.200
+langchain-robocorp>=0.1.0
+rpaframework>=13.0.0
+
+
