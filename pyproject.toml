@@ -7,6 +7,7 @@ dependencies = [
   "langchain>=0.0.200",
   "langchain-sema4>=0.1.0",
   "rpaframework>=13.0.0",
+  "langchain-openai>=0.1.0",
 ]
 
 # (Optional) Dev dependencies group
